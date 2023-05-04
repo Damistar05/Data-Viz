@@ -7,6 +7,7 @@
 import dash
 import dash_bootstrap_components as dbc
 
+app = app.server
 
 #https://bootswatch.com/#
 #Use of one of the dbc themes from bootswatch
