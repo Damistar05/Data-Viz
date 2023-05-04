@@ -14,7 +14,7 @@ from dash.dependencies import Input, Output
 from APPS import app
 from app import server
 
-
+server = app.server
 
 # Connect to your app pages
 from APPS import TableChart, SingleBar,PieChart,DonutChart
