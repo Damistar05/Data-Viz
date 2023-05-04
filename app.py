@@ -20,6 +20,5 @@ app = dash.Dash(__name__, external_stylesheets=external_stylesheets,
 
                )
 
-#Running the app on the server
-server = app.server
+
 
