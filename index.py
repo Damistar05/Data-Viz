@@ -11,7 +11,7 @@ from dash.dependencies import Input, Output
 
 
 # Connect to main app.py file
-from APPS import app
+from apps import app
 
 server = app.server
 
